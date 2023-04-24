@@ -1,4 +1,7 @@
 def change_line(line):
+    """
+    Заменяет все буквы на заглавные
+    """
     return line.upper()
 
 
